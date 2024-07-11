@@ -1,6 +1,6 @@
 # ExileMod-ContainerWeapon
 - Keeps attachments & magazine on weapons in containers attached on restart.
-- This will also fix the problem with duping weapon attachments on server restart that some weapons have (RHS etc).
+- This will also fix the problem with duping weapon attachments in containers on server restart that some mods/weapons have (RHS etc).
 
 ![grafik](https://github.com/user-attachments/assets/c9a93333-90c5-4451-adbd-b0c618128c49)
 
